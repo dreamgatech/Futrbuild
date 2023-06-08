@@ -139,7 +139,7 @@
   width: 90px;
   left: 60%;
   top: 60%;
-  margin-left: -40px;
+  margin-left: -50px;
   margin-top: -40px;
   background: url("owl.video.play.png") no-repeat;
   cursor: pointer;
